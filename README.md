@@ -46,6 +46,6 @@ Patient ID + Predicted Probability of MI risk
 
 • Results
 Balanced Accuracy: 78%
-F1-score (MI): 0.78
-F-1 score (Non-MI) : 0.79
+F1-score (MI): 0.77
+F-1 score (Non-MI) : 0.78
 Predictions remain balanced across both classes with calibrated probabilities.
